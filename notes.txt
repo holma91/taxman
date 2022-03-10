@@ -1,0 +1,18 @@
+refresh go skills -> write this
+
+what should taxman be able to do?
+- generate files of transactions in arbitrary format and "structure"
+- support all chains that have a block explorer
+
+
+what should a user be able to do?
+- define format
+- define structure
+- add chains and corresponding api keys
+
+
+
+end project
+- a command line program that anyone can run
+- a frontend for non developers
+
